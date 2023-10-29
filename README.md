@@ -1,6 +1,6 @@
 ### About Me
 
-I am a Data Scientist with a diverse background. In my earlier career, I delved into the world of arts and creativity through lighting design, working with renowned afrobeat artists. Now, my passion is all about data, AI, and solving complex problems. I'm dedicated to learning, collaborating, and making a notable impact.
+I am a Data Scientist with a diverse background, transitioning from the world of arts and creativity to the realm of data science. My passion lies in data, AI, and solving complex problems. I am dedicated to collaborating and making a significant impact in the field of data science.
 
 ### Projects
 
