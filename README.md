@@ -1,5 +1,3 @@
-## Abiodun Oluwaferanmi Adeagbo
-
 ### About Me
 
 I am a Data Scientist with a diverse background. In my earlier career, I delved into the world of arts and creativity through lighting design, working with renowned afrobeat artists. Now, my passion is all about data, AI, and solving complex problems. I'm dedicated to learning, collaborating, and making a notable impact.
