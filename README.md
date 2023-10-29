@@ -18,7 +18,7 @@ The 'LLM for Marketing Content' project is dedicated to building a marketing das
 
 The "Spain Electricity Shortfall Challenge" project is dedicated to analyzing energy generation patterns in Spain, focusing on renewable and fossil fuel sources. Our primary objective is to develop a precise machine learning model that predicts energy demand shortfalls, providing crucial insights for Spain's renewable energy investments.
 
-#### Employee Absenteeism Analysis - [View project detail](https://github.com/feranmiabiodun/Employee-Absenteeism-Analysis)
+#### Employees Absenteeism Analysis - [View project detail](https://github.com/feranmiabiodun/Employees-Absenteeism-Analysis)
 
 The "Employee Absenteeism Analysis" project revolves around studying employee absenteeism patterns to enhance workplace productivity and attendance. Our core aim is to identify key factors contributing to absenteeism and provide actionable recommendations for improved workforce management.
 
