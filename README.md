@@ -1,4 +1,4 @@
-![image 1](images/profile_picture.jpg)
+![image 1](images/port_profile_picture.jpg)
 
 ### About Me
 
