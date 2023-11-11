@@ -1,4 +1,4 @@
-<a href="#" class="image featured" style="border-radius: 50%; overflow: hidden; display: inline-block; margin: 0 auto; width: 200px; height: 200px;"><img src="images/profile_picture.jpg" alt="About Me" /></a>
+![image 1](images/profile_picture.jpg)
 
 ### About Me
 
