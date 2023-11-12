@@ -10,7 +10,7 @@ I am a Data Scientist with a diverse background, transitioning from the world of
 
 The "Hybrid Credit" project aimed to pioneer financial inclusion for immigrants in the UK. The project's objective was to build a machine learning model capable of creating foundational credit scores, assessing creditworthiness, and generating detailed reports by analyzing immigrants' foreign financial history.
 
-- #### [LLM for Marketing Content - View project detail](https://feranmiabiodun.github.io/LLM-for-Marketing-Campaign/)
+- #### [LLM for Marketing Content - View project detail](https://feranmiabiodun.github.io/LLM-for-Marketing/)
 
 The 'LLM for Marketing Content' project is dedicated to building a marketing dashboard capable of evaluating and refining marketing content using LLM to tailor it to specific user personas.
 
