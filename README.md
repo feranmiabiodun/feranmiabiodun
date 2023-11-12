@@ -6,7 +6,7 @@ I am a Data Scientist with a diverse background, transitioning from the world of
 
 ### Projects
 
-- #### [Hybrid Credit - View project detail](https://feranmiabiodun.github.io/feranmiabiodun/Hybrid-Credit/)
+- #### [Hybrid Credit - View project detail](https://feranmiabiodun.github.io/Hybrid-Credit/)
 
 The "Hybrid Credit" project aimed to pioneer financial inclusion for immigrants in the UK. The project's objective was to build a machine learning model capable of creating foundational credit scores, assessing creditworthiness, and generating detailed reports by analyzing immigrants' foreign financial history.
 
