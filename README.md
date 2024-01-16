@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am a Data Scientist with a diverse background, transitioning from the world of arts and entertainment to the realm of data science. My passion lies in data, AI, and solving complex problems. I am dedicated to collaborating and making a significant impact in the field of data science.
+I am a Data Scientist/Analyst with a diverse background, transitioning from the world of arts and entertainment to the realm of data science. My passion lies in data, AI, and solving complex problems. I am dedicated to collaborating and making a significant impact in the field of data science.
 
 ### Projects
 
