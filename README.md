@@ -1,10 +1,10 @@
 ![Profile picture of Feranmi Abiodun Adeagbo](images/port_profile_picture.jpg)
 
-### About Me
+### About Feranmi Abiodun Adeagbo 
 
 I am a Data Scientist/Analyst with a diverse background, transitioning from the world of arts and entertainment to the realm of data science and analysis. My passion lies in data, AI, and solving complex problems. I am dedicated to collaborating and making a significant impact in the field of data science.
 
-### Projects
+### Projects by Feranmi Abiodun Adeagbo 
 
 - #### [Hybrid Credit - View project detail](https://feranmiabiodun.github.io/Hybrid-Credit/)
 
