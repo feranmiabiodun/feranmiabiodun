@@ -1,4 +1,4 @@
-![image 1](images/port_profile_picture.jpg)
+![Profile picture of Feranmi Abiodun](images/port_profile_picture.jpg)
 
 ### About Me
 
